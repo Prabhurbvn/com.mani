@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45949" started-at="2020-12-15T14:28:49 IST" finished-at="2020-12-15T14:29:35 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45949" started-at="2020-12-15T14:28:49 IST" finished-at="2020-12-15T14:29:35 IST">
+      <class name="Com.Wipro.money.Script.TestScript">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="Setup" is-config="true" duration-ms="37170" started-at="2020-12-15T14:28:49 IST" finished-at="2020-12-15T14:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ValidateCreateAccount()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateCreateAccount" duration-ms="269" started-at="2020-12-15T14:29:27 IST" finished-at="2020-12-15T14:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateAccount -->
+        <test-method status="PASS" signature="ValidateCreatenew()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateCreatenew" duration-ms="260" started-at="2020-12-15T14:29:27 IST" finished-at="2020-12-15T14:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreatenew -->
+        <test-method status="PASS" signature="ValidateDrop_Date()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateDrop_Date" duration-ms="4264" started-at="2020-12-15T14:29:27 IST" finished-at="2020-12-15T14:29:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDrop_Date -->
+        <test-method status="PASS" signature="ValidateDrop_Month()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateDrop_Month" duration-ms="232" started-at="2020-12-15T14:29:31 IST" finished-at="2020-12-15T14:29:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDrop_Month -->
+        <test-method status="PASS" signature="ValidateDrop_Year()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateDrop_Year" duration-ms="159" started-at="2020-12-15T14:29:32 IST" finished-at="2020-12-15T14:29:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDrop_Year -->
+        <test-method status="PASS" signature="ValidateName()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateName" duration-ms="3091" started-at="2020-12-15T14:29:32 IST" finished-at="2020-12-15T14:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateName -->
+        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateTitle" duration-ms="6" started-at="2020-12-15T14:29:35 IST" finished-at="2020-12-15T14:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method status="PASS" signature="ValidateUrl()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="ValidateUrl" duration-ms="5" started-at="2020-12-15T14:29:35 IST" finished-at="2020-12-15T14:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUrl -->
+        <test-method status="PASS" signature="Validatesurname()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="Validatesurname" duration-ms="141" started-at="2020-12-15T14:29:35 IST" finished-at="2020-12-15T14:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatesurname -->
+        <test-method status="PASS" signature="validateradio()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="validateradio" duration-ms="116" started-at="2020-12-15T14:29:35 IST" finished-at="2020-12-15T14:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateradio -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Com.Wipro.money.Script.TestScript@5ce81285]" name="Teardown" is-config="true" duration-ms="149" started-at="2020-12-15T14:29:35 IST" finished-at="2020-12-15T14:29:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Wipro.money.Script.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

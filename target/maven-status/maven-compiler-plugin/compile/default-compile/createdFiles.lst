@@ -1,0 +1,5 @@
+Com\Wipro\money\Pages\LoginPage.class
+Com\Wipro\money\Base\Testbase.class
+Com\Wipro\money\Pages\InboxPage.class
+Com\Wipro\money\Pages\SignupPage.class
+Com\Wipro\money\Utils\Testutil.class
