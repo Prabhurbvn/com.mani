@@ -84,6 +84,12 @@ public class FbScript extends Testbase
 	   Testutil.VerifyDropdown_Year(log.Year_Drop, "1990");
    }
    
+   @Test
+   public void ValidateLoginbtn()
+   {
+	   System.out.println("This is newly updated");
+   }
+   
    @AfterTest
    public void Teardown()
    {
